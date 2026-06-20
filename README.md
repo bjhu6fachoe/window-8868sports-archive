@@ -1,2 +1,14 @@
 # window-8868sports-archive
-HTML page archive and documentation
+
+自动生成页面存放处
+
+本仓库承载生成后的页面文件，便于跟踪每次提交内容。
+
+## 文件组成
+
+- `.html` 文件为独立页面
+- `README.md` 为仓库基础说明
+
+## 归档说明
+
+本仓库用于保存发布产物，不额外承诺页面内容长期不变。
